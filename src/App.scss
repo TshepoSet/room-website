@@ -1,0 +1,31 @@
+// .slider {
+//   z-index: 40;
+//   cursor: pointer;
+//   display: flex;
+//   position: absolute;
+//   bottom: 0;
+//   &__wrapper{
+//     background-color: $black;
+//     width: 3.33rem;
+//     height: 5rem;
+//   }
+
+//   &--left, &--right {
+//     position: absolute;
+//     padding-left: 1.5rem;
+//     top: 50%;
+//     transform: translateY(-50%);
+//   }
+// }
+
+// .img {
+//   height: 30vh;
+//   &--dark {
+//     height: inherit;
+//     background-image: url("./assets/img/image-about-dark.jpg");
+//   }
+//   &--light {
+//     height: inherit;
+//     background-image: url("./assets/img/image-about-light.jpg");
+//   }
+// }

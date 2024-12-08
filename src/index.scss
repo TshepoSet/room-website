@@ -1,0 +1,11 @@
+@import "./scss/typography.scss";
+@import "./scss/variables.scss";
+
+body {
+  margin: 0;
+  font-family: "Spartan-Med" !important; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: $font-weight !important;
+}
+
